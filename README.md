@@ -5,19 +5,24 @@
 ### Data Exploration
 
 •	The dataset has 20,000 records with 33 features which include details about hotel like city, Property type, Hotel-star rating, makemytrip website details and so on.
+
 •	While creating a recommendation system we try to predict the Hotel star rating which is already given in the dataset. Hence this is a supervised problem due to the limited availability of data. 
+
 •	We use rest of the features given in the data set to build a prediction model that predicts the Hotel-star rating(that varies between 0-5) and check the accuracy of the model by using a fraction of the dataset not used in training to get the test accuracy.
+
 •	To get more accurate results we carry out cross validation with 5 folds, this helps us to train the model with the entire dataset that we have.
+
 •	To get more accurate results we carry out cross validation with 5 folds, this helps us to train the model with the entire dataset that we have.
 
 ### Data visualization
 
 •	We try to visualize the Top 10 cities Hotel-star rating distribution
- 
 
+<img src= "image1.png">
 
 •	We also visualize the Top 10 Cities Review counts
- 
+
+<img src= "image2.png">
 
 ## 2.	Data pre-processing
 
