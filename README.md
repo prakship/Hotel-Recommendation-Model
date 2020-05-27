@@ -18,11 +18,11 @@
 
 •	We try to visualize the Top 10 cities Hotel-star rating distribution
 
-<img src= "image1.png">
+<img src= "output/image1.png">
 
 •	We also visualize the Top 10 Cities Review counts
 
-<img src= "image2.png">
+<img src= "output/image2.png">
 
 ## 2.	Data pre-processing
 
